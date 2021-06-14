@@ -9,5 +9,9 @@ body{
 }
 
 .link:hover{
-    background-color: grey;
+    color: grey;
+}
+
+.icon{
+    font-size: 2rem;
 }
