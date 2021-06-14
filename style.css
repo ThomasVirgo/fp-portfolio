@@ -3,3 +3,11 @@
 body{
     font-family: 'Poppins', sans-serif; 
 }
+
+.link{
+    cursor: pointer;
+}
+
+.link:hover{
+    background-color: grey;
+}
